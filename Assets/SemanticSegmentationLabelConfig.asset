@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d0176327854820ab53adc46cbec7c1, type: 3}
+  m_Name: SemanticSegmentationLabelConfig
+  m_EditorClassIdentifier: 
+  m_LabelEntries:
+  - label: drink_whippingcream_lucerne
+    color: {r: 0, g: 0, b: 1, a: 1}
+  - label: lotion_essentially_nivea
+    color: {r: 0, g: 1, b: 0, a: 1}
+  - label: craft_yarn_caron
+    color: {r: 1, g: 0, b: 0, a: 1}
+  - label: cereal_cheerios_honeynut
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - label: candy_minipralines_lindt
+    color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - label: pasta_lasagne_barilla
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - label: drink_greentea_itoen
+    color: {r: 0.4184438, g: 0.7218222, b: 1, a: 1}
+  - label: snack_granolabar_naturevalley
+    color: {r: 0.93885434, g: 0.18707919, b: 1, a: 1}
+  - label: snack_biscotti_ghiott
+    color: {r: 0.3582813, g: 1, b: 0.7084529, a: 1}
+  - label: cleaning_snuggle_henkel
+    color: {r: 1, g: 0.45971882, b: 0.4086665, a: 1}
+  - label: snack_biscotti_ghiott_01
+    color: {r: 0.7170032, g: 1, b: 0.28614676, a: 1}
+  - label: craft_yarn_caron_01
+    color: {r: 0.49724364, g: 1, b: 0.9871791, a: 1}
+  skyColor: {r: 0, g: 0, b: 0, a: 1}
